@@ -1,0 +1,10 @@
+.env
+.env.*
+!.env.example
+.nvidia/
+config
+auth.json
+*.key
+*.pem
+__pycache__/
+*.py[cod]
